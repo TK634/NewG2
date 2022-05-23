@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ctc2022/Desktop/Github/G2_Apps/UserApp/app/src/main/res/layout/activity_main.xml" value="0.264" />
+<<<<<<< HEAD
+        <entry key="..\:/Users/ctc2022/Desktop/Github/G2_Apps/UserApp/app/src/main/res/layout/activity_user10.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/ctc2022/Desktop/Github/G2_Apps/UserApp/app/src/main/res/layout/activity_user11.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/ctc2022/Desktop/Github/G2_Apps/UserApp/app/src/main/res/layout/activity_user12.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/ctc2022/Desktop/Github/G2_Apps/UserApp/app/src/main/res/layout/activity_user13.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/ctc2022/Desktop/Github/G2_Apps/UserApp/app/src/main/res/layout/activity_user14.xml" value="0.10055724417426545" />
+        <entry key="..\:/Users/ctc2022/Desktop/Github/G2_Apps/UserApp/app/src/main/res/layout/activity_user15.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/ctc2022/Desktop/Github/G2_Apps/UserApp/app/src/main/res/layout/activity_user2.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/ctc2022/Desktop/Github/G2_Apps/UserApp/app/src/main/res/layout/activity_user3.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/ctc2022/Desktop/Github/G2_Apps/UserApp/app/src/main/res/layout/activity_user4.xml" value="0.20677083333333332" />
+        <entry key="..\:/Users/ctc2022/Desktop/Github/G2_Apps/UserApp/app/src/main/res/layout/activity_user5.xml" value="0.20677083333333332" />
+        <entry key="..\:/Users/ctc2022/Desktop/Github/G2_Apps/UserApp/app/src/main/res/layout/activity_user6.xml" value="0.2421875" />
+        <entry key="..\:/Users/ctc2022/Desktop/Github/G2_Apps/UserApp/app/src/main/res/layout/activity_user7.xml" value="0.2" />
+        <entry key="..\:/Users/ctc2022/Desktop/Github/G2_Apps/UserApp/app/src/main/res/layout/activity_user8.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/ctc2022/Desktop/Github/G2_Apps/UserApp/app/src/main/res/layout/activity_user9.xml" value="0.20677083333333332" />
+        <entry key="..\:/Users/ctc2022/Desktop/Github/G2_Apps/UserApp/app/src/main/res/layout/strings.xml" value="0.21784420289855072" />
+=======
+        <entry key="..\:/Users/ctc2022/Desktop/Github/G2_Apps/UserApp/app/src/main/res/layout/activity_user10.xml" value="0.23369565217391305" />
+        <entry key="..\:/Users/ctc2022/Desktop/Github/G2_Apps/UserApp/app/src/main/res/layout/activity_user11.xml" value="0.20863616930312098" />
+        <entry key="..\:/Users/ctc2022/Desktop/Github/G2_Apps/UserApp/app/src/main/res/layout/activity_user12.xml" value="0.4" />
+        <entry key="..\:/Users/ctc2022/Desktop/Github/G2_Apps/UserApp/app/src/main/res/layout/activity_user13.xml" value="0.4548952543822146" />
+        <entry key="..\:/Users/ctc2022/Desktop/Github/G2_Apps/UserApp/app/src/main/res/layout/activity_user14.xml" value="0.4" />
+        <entry key="..\:/Users/ctc2022/Desktop/Github/G2_Apps/UserApp/app/src/main/res/layout/activity_user2.xml" value="0.16973065412569474" />
+        <entry key="..\:/Users/ctc2022/Desktop/Github/G2_Apps/UserApp/app/src/main/res/layout/activity_user3.xml" value="0.10055724417426545" />
+        <entry key="..\:/Users/ctc2022/Desktop/Github/G2_Apps/UserApp/app/src/main/res/layout/activity_user4.xml" value="0.1" />
+        <entry key="..\:/Users/ctc2022/Desktop/Github/G2_Apps/UserApp/app/src/main/res/layout/activity_user5.xml" value="0.4" />
+        <entry key="..\:/Users/ctc2022/Desktop/Github/G2_Apps/UserApp/app/src/main/res/layout/activity_user6.xml" value="0.2421875" />
+        <entry key="..\:/Users/ctc2022/Desktop/Github/G2_Apps/UserApp/app/src/main/res/layout/activity_user7.xml" value="0.264" />
+        <entry key="..\:/Users/ctc2022/Desktop/Github/G2_Apps/UserApp/app/src/main/res/layout/activity_user9.xml" value="0.4" />
+        <entry key="..\:/Users/ctc2022/Desktop/Github/G2_Apps/UserApp/app/src/main/res/layout/strings.xml" value="0.1" />
+<<<<<<< HEAD
+        <entry key="..\:/Users/ctc2022/Desktop/Github/G2_Apps/UserApp/app/src/main/res/layout/user5_custom_spinner.xml" value="0.45404018811457886" />
+        <entry key="..\:/Users/ctc2022/Desktop/Github/G2_Apps/UserApp/app/src/main/res/layout/user5_custom_spinner_dropdown.xml" value="0.45404018811457886" />
+=======
+>>>>>>> d8df52cec06fe03b9c4be13ddd04ae9fcacfe8b2
+>>>>>>> origin
+        <entry key="..\:/Users/ctc2022/Desktop/Github/UserApp/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/ctc2022/Desktop/Github/UserApp/app/src/main/res/layout/activity_user7.xml" value="0.264" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.25729166666666664" />
+        <entry key="app/src/main/res/layout/activity_user10.xml" value="0.19655797101449277" />
+        <entry key="app/src/main/res/layout/activity_user11.xml" value="0.19655797101449277" />
+        <entry key="app/src/main/res/layout/activity_user12.xml" value="0.19655797101449277" />
+        <entry key="app/src/main/res/layout/activity_user13.xml" value="0.19655797101449277" />
+        <entry key="app/src/main/res/layout/activity_user14.xml" value="0.19655797101449277" />
+        <entry key="app/src/main/res/layout/activity_user15.xml" value="0.21331521739130435" />
+        <entry key="app/src/main/res/layout/activity_user2.xml" value="0.25729166666666664" />
+        <entry key="app/src/main/res/layout/activity_user3.xml" value="0.19655797101449277" />
+        <entry key="app/src/main/res/layout/activity_user5.xml" value="0.19655797101449277" />
+        <entry key="app/src/main/res/layout/activity_user6.xml" value="0.19655797101449277" />
+        <entry key="app/src/main/res/layout/activity_user7.xml" value="0.19655797101449277" />
+        <entry key="app/src/main/res/layout/activity_user8.xml" value="0.19655797101449277" />
+        <entry key="app/src/main/res/layout/activity_user9.xml" value="0.19655797101449277" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

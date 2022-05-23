@@ -1,0 +1,45 @@
+<resources>
+    <!--    user5の文字列-->
+    <string name="app_name">Routrip</string>
+    <string name="editTextNumberDecimal">予算の入力</string>
+    <string name="details">旅程の詳細</string>
+    <string name="estimate">予算</string>
+    <string name="departure">出発地</string>
+    <string name="destination">到着地</string>
+
+    <!--user5 スピナーの文字列-->
+    <string-array name="list">
+        <item>嵐山</item>
+        <item>北区</item>
+        <item>上京</item>
+        <item>中京</item>
+        <item>左京</item>
+        <item>河原町</item>
+        <item>東山</item>
+        <item>京都駅</item>
+        <item>伏見</item>
+    </string-array>
+
+
+    <!--        user6の文字列-->
+    <string name="checkBox24">伏見稲荷大社</string>
+    <string name="checkBox23">天橋立</string>
+    <string name="checkBox22">二条城</string>
+    <string name="checkBox21">東寺</string>
+    <string name="checkBox20">京都タワー</string>
+    <string name="checkBox19">金閣寺</string>
+    <string name="checkBox18">下鴨神社</string>
+    <string name="checkBox16">北野天満宮</string>
+    <string name="checkBox15">京都市動物公園</string>
+    <string name="checkBox14">平安神宮</string>
+    <string name="checkBox13">京都御所</string>
+    <string name="checkBox17">清水寺</string>
+    <string name="checkBox12">京都国立博物館</string>
+    <string name="checkBox11">祇園祭</string>
+    <string name="checkBox">貴船神社</string>
+    <string name="checkBox6">知恩院</string>
+    <string name="title_activity_user8_maps">User8_MapsActivity</string>
+    <string name="title_activity_user8_google_map">User8_GoogleMap</string>
+    <string name="title_activity_user8_google_map_key">User8_GoogleMapKey</string>
+
+</resources>
